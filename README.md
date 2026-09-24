@@ -32,7 +32,6 @@ A comprehensive Business Process Management (BPM) project modeling, simulating, 
 ## 📁 Repository Structure
 * `caring-pharmacy-bpm-report.pdf` — Complete 63-page technical report covering process discovery, value-added/waste analysis, issue registers, Bizagi simulation configuration, and sensitivity analysis.
 * `/models` — Source `.bpm` / `.bpmn` process models for Bizagi Modeler.
-* `/diagrams` — Exported high-resolution process diagrams and financial projections.
 
 ---
 
