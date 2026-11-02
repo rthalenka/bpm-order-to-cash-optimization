@@ -97,4 +97,9 @@ The `.bpm` files can be opened using Bizagi Modeler.
 
 Academic project developed as part of the Information Management degree at NOVA IMS.
 
-The project demonstrates the application of Business Process Management concepts to operational process analysis, simulation-based evaluation, and process redesign in a retail pharmacy context..
+The project demonstrates the application of Business Process Management concepts to operational process analysis, simulation-based evaluation, and process redesign in a retail pharmacy context.
+
+## Project Documentation
+
+- [**Full Project Report (PDF)**](./caring-pharmacy-bpm-report.pdf) — Detailed documentation of the AS-IS analysis, BPMN models, process simulation, TO-BE redesign, and financial evaluation.
+- [Original Case Study & Project Brief (PDF)](./docs/project-description.pdf) — Lecturer-provided case description, business context, process requirements, and project guidelines.
